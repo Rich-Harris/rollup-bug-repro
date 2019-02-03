@@ -1,2 +1,4 @@
 import './a.js';
-import './b.js';
+import { foo } from './b.js';
+
+foo();

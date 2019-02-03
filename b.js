@@ -1,2 +1,5 @@
-import './c.js';
-import './d.js';
+import('./a.js');
+
+export function foo() {
+	console.log(1);
+}

@@ -1,3 +1,1 @@
-import { foo } from './c.js';
-
-foo();
+import './b.js';
